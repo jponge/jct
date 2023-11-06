@@ -4,7 +4,7 @@
     <parent>
         <groupId>io.github.jponge.jct</groupId>
         <artifactId>jctools-parent</artifactId>
-        <version>4.0.2-SNAPSHOT</version>
+        <version>4.0.2-RC2</version>
     </parent>
 
     <artifactId>jctools-concurrency-test</artifactId>
