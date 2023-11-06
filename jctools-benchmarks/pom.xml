@@ -17,17 +17,17 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.jctools</groupId>
+            <groupId>io.github.jponge.jct</groupId>
             <artifactId>jctools-core</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.jctools</groupId>
+            <groupId>io.github.jponge.jct</groupId>
             <artifactId>jctools-channels</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.jctools</groupId>
+            <groupId>io.github.jponge.jct</groupId>
             <artifactId>jctools-experimental</artifactId>
             <version>${project.version}</version>
         </dependency>

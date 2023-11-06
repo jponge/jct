@@ -16,19 +16,19 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.jctools</groupId>
+            <groupId>io.github.jponge.jct</groupId>
             <artifactId>jctools-core</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.jctools</groupId>
+            <groupId>io.github.jponge.jct</groupId>
             <artifactId>jctools-core</artifactId>
             <version>${project.version}</version>
             <type>test-jar</type>
             <scope>compile</scope>
         </dependency>
         <dependency>
-            <groupId>org.jctools</groupId>
+            <groupId>io.github.jponge.jct</groupId>
             <artifactId>jctools-channels</artifactId>
             <version>${project.version}</version>
         </dependency>

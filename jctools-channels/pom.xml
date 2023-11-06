@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.jctools</groupId>
+            <groupId>io.github.jponge.jct</groupId>
             <artifactId>jctools-core</artifactId>
             <version>${project.version}</version>
         </dependency>
