@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.jctools</groupId>
+    <groupId>io.github.jponge.jct</groupId>
     <artifactId>jctools-parent</artifactId>
     <packaging>pom</packaging>
     <version>4.0.2-SNAPSHOT</version>
@@ -21,8 +21,8 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/JCTools/JCTools</url>
-        <connection>scm:git:https://github.com/JCTools/JCTools</connection>
+        <url>https://github.com/jponge/jct</url>
+        <connection>scm:git:https://github.com/jponge/jct</connection>
     </scm>
 
     <developers>
