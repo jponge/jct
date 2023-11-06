@@ -66,6 +66,10 @@
 				<configuration>
 					<instructions>
 						<Import-Package>sun.misc;resolution:=optional</Import-Package>
+						<!-- Adds a module descriptor named as the OSGI bundle -->
+						<_jpms-module-info>org.jctools.core;access=0</_jpms-module-info>
+						<!-- Exports only explicitly annotated packages -->
+						<_exportcontents>$[packages;ANNOTATED;org.osgi.annotation.bundle.Export]</_exportcontents>
 					</instructions>
 				</configuration>
 			</plugin>
